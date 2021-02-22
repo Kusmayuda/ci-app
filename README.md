@@ -1,2 +1,2 @@
-# cii-app
+# ci-app
 Membuat MVP dengan Codeigniter dan Boostrap
