@@ -13,6 +13,7 @@
   <link rel="stylesheet" href=" <?= base_url(); ?>assets/css/style.css">
 
   <title><?php echo $judul; ?></title>
+  <link href="icon.ico" rel="icon" type="ico" />
 </head>
 
 <body>
